@@ -1,0 +1,15 @@
+.\objects\lcd_test.o: ..\5_SRC\lcd_test.c
+.\objects\lcd_test.o: ..\4_INC\lcd.h
+.\objects\lcd_test.o: ..\1_CMSIS\stm32f10x.h
+.\objects\lcd_test.o: ..\1_CMSIS\core_cm3.h
+.\objects\lcd_test.o: D:\Keil_v5\ARM\ARMCC\Bin\..\include\stdint.h
+.\objects\lcd_test.o: D:\Keil_v5\ARM\CMSIS\Include\core_cmInstr.h
+.\objects\lcd_test.o: D:\Keil_v5\ARM\CMSIS\Include\core_cmFunc.h
+.\objects\lcd_test.o: ..\1_CMSIS\system_stm32f10x.h
+.\objects\lcd_test.o: ..\3_CONF\inc\stm32f10x_conf.h
+.\objects\lcd_test.o: ..\2_FWLIB\inc\stm32f10x_adc.h
+.\objects\lcd_test.o: ..\1_CMSIS\stm32f10x.h
+.\objects\lcd_test.o: ..\2_FWLIB\inc\stm32f10x_gpio.h
+.\objects\lcd_test.o: ..\2_FWLIB\inc\stm32f10x_rcc.h
+.\objects\lcd_test.o: ..\2_FWLIB\inc\stm32f10x_spi.h
+.\objects\lcd_test.o: ..\2_FWLIB\inc\misc.h
